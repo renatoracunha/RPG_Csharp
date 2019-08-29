@@ -1,0 +1,7 @@
+C:\Users\renat\source\repos\RPGNivelamentoPOO\RPG\bin\Debug\RPG.exe.config
+C:\Users\renat\source\repos\RPGNivelamentoPOO\RPG\bin\Debug\RPG.exe
+C:\Users\renat\source\repos\RPGNivelamentoPOO\RPG\bin\Debug\RPG.pdb
+C:\Users\renat\source\repos\RPGNivelamentoPOO\RPG\obj\Debug\RPG.csprojAssemblyReference.cache
+C:\Users\renat\source\repos\RPGNivelamentoPOO\RPG\obj\Debug\RPG.csproj.CoreCompileInputs.cache
+C:\Users\renat\source\repos\RPGNivelamentoPOO\RPG\obj\Debug\RPG.exe
+C:\Users\renat\source\repos\RPGNivelamentoPOO\RPG\obj\Debug\RPG.pdb
